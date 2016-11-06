@@ -8,7 +8,5 @@ public class PlayerController : MonoBehaviour
     {
 		float moveHorizontal = Input.GetAxis ("Horizontal");
 		float moveVertical = Input.GetAxis ("Vertical");
-
-
     }
 }
